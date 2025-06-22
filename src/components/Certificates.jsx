@@ -19,6 +19,11 @@ const Certificates = () => {
       image: process.env.PUBLIC_URL + "/Documents/Rpg.jpg"
     },
     {
+      title: "National Diploma in Information Technology: Software Development",
+      description: "I obtained my Diploma in 2022, after four years at Tshwane University of Technology. Learned C++ as my major core programming language for basic and OOP. Learned SQL and PL/SQL embedded and single data base queries. Learned system development and software life cycles.Learned Pythoin for final year project called Med-Mobi. Learned organizational standards and how to work with people ion the work environment.",
+      image: process.env.PUBLIC_URL + "/Documents/Diploma.png"
+    },
+    {
       title: "Peer Educator: Chairperson",
       description: "I obtained this certificate by exhibiting leadership, trustworthiness and confidentiality. I got nominated and voted for to be chairperson whereby I organized campaigns and my group members, assisted the nurse with front desk admin and minimal nurse applications such as taking client blood pressure, weight and temperature.",
       image: process.env.PUBLIC_URL + "/Documents/Chairperson.png"
