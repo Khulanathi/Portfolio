@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaEnvelope, FaGithub, FaLinkedin, FaTwitter, FaUser } from 'react-icons/fa';
-
+import cvPDF from '../../public/Documents/Cv.pdf';
 const Header = () => {
   return (
     <header className="head">
@@ -23,7 +23,7 @@ const Header = () => {
         <a href="https://twitter.com/KhulanathiM" alt="Twitter" target="_blank" rel="noopener noreferrer">
           <FaTwitter />
         </a>
-        <a href="Docs/My Cv.pdf" target="_blank" alt="My Cv" rel="noopener noreferrer">
+        <a href={cvPDF} target="_blank" alt="My Cv" rel="noopener noreferrer">
           <FaUser />
         </a>
       </div>
