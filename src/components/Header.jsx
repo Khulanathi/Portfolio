@@ -8,7 +8,7 @@ const Header = () => {
         <h1>Khulanathi Mtshazo</h1>
       </div>
       <div className="extra">
-        <h2>RPG & Software Developer</h2>
+        <h2>RPG AS400 Dev & Software Developer</h2>
       </div>
       <div className="links">
         <a href="mailto:khulunathim@gmail.com" alt="Email">
