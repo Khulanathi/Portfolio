@@ -14,7 +14,7 @@ const About = () => {
     {
       icon: <FaGraduationCap className="about-icon" />,
       title: "Education Journey",
-      content: "My coding journey began in 2016 with HTML, but formally started at Tshwane University of Technology (TUT) in 2019. Despite initial hurdles, I completed my National Diploma in record time by February 2023. Currently pursuing Computer Science, I've immersed myself in Python (building models, data analysis), Java (OOP, EJBs), and various other technologies. My academic projects include data scraping, machine learning models, and comprehensive data visualization."
+      content: "My coding journey began in 2016 with HTML, but formally started at Tshwane University of Technology (TUT) in 2019. Despite initial hurdles, I completed my National Diploma in record time by February 2023 then went on to finish it in reccord time in 2024. Currently working persuing to challenge myself more and more as a RPG Developer. I've immersed myself in Python (building models, data analysis), Java (OOP, EJBs), and various other technologies. My academic projects include data scraping, machine learning models, and comprehensive data visualization."
     },
     {
       icon: <FaBriefcase className="about-icon" />,

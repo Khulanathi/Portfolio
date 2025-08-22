@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBriefcase, FaCalendarAlt, FaServer, FaCode, FaDatabase, FaChartLine, FaChevronDown, FaChevronUp} from 'react-icons/fa';
+import { FaBriefcase, FaCalendarAlt, FaServer, FaCode, FaDatabase, FaChartLine} from 'react-icons/fa';
 import SectionHeader from './SectionHeader';
 
 const Experience = () => {

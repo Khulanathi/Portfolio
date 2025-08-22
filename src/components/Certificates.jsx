@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import SectionHeader from './SectionHeader';
-import { FaCertificate, FaTimes, FaChevronUp } from 'react-icons/fa';
+import { FaCertificate, FaTimes } from 'react-icons/fa';
 
 const Certificates = () => {
   const [showCertificates, setShowCertificates] = useState(false);
-  const [expandedCertificate, setExpandedCertificate] = useState(null);
    const [selectedImage, setSelectedImage] = useState(null);
 
   const certificates = [
